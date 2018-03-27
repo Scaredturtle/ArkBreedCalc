@@ -1,0 +1,46 @@
+[ {
+  "allowLevelUps" : true,
+  "baseLevel" : 39,
+  "colorSetIndices" : {
+    "0" : 34,
+    "1" : 26,
+    "3" : 26,
+    "5" : 35
+  },
+  "experience" : 1558.0968,
+  "extraLevel" : 17,
+  "female" : true,
+  "id" : 585485324878530487,
+  "lastEnterStasisTime" : 41333.54267286882,
+  "location" : {
+    "x" : -244756.25,
+    "y" : -378561.5,
+    "z" : -9067.984,
+    "lat" : 21.111563,
+    "lon" : 31.325705
+  },
+  "myInventoryComponent" : 1102,
+  "ownerName" : "ScaredTurtle",
+  "playerId" : 167911294,
+  "requiredTameAffinity" : 2820.0,
+  "tamed" : true,
+  "tamedAtTime" : 32359.729942079633,
+  "tamedLevels" : {
+    "stamina" : 17
+  },
+  "tamedOnServerName" : "ScaredTurtle Server",
+  "tamedTime" : 9037.918495420367,
+  "tamer" : "ScaredTurtle",
+  "tamingEffectivness" : 0.9305556,
+  "team" : 167911294,
+  "type" : "Pelagornis",
+  "uploadedFromServerName" : "\nScaredTurtle Server",
+  "wildLevels" : {
+    "health" : 11,
+    "stamina" : 5,
+    "oxygen" : 5,
+    "food" : 7,
+    "weight" : 4,
+    "melee" : 6
+  }
+} ]

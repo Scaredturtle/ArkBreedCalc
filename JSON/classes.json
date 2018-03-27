@@ -1,0 +1,13 @@
+[ {
+  "cls" : "Dodo_Character_BP_C",
+  "name" : "Dodo"
+}, {
+  "cls" : "Trike_Character_BP_C",
+  "name" : "Triceratops"
+}, {
+  "cls" : "Dilo_Character_BP_C",
+  "name" : "Dilophosaur"
+}, {
+  "cls" : "Pela_Character_BP_C",
+  "name" : "Pelagornis"
+} ]
