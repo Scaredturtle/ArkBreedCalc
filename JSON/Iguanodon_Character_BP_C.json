@@ -1,0 +1,48 @@
+[ {
+  "allowLevelUps" : true,
+  "baseLevel" : 176,
+  "colorSetIndices" : {
+    "0" : 24,
+    "4" : 34,
+    "5" : 47
+  },
+  "experience" : 1491.3901,
+  "extraLevel" : 16,
+  "female" : true,
+  "id" : 2017948740499781725,
+  "lastEnterStasisTime" : 61429.133632514626,
+  "location" : {
+    "x" : -179425.69,
+    "y" : -59862.816,
+    "z" : 43498.17,
+    "lat" : 42.517147,
+    "lon" : 27.571789
+  },
+  "myInventoryComponent" : 46846,
+  "name" : "Noble Steed",
+  "requiredTameAffinity" : 19600.0,
+  "tamed" : true,
+  "tamedAtTime" : 49606.22716923803,
+  "tamedLevels" : {
+    "health" : 4,
+    "melee" : 8,
+    "speed" : 4
+  },
+  "tamedOnServerName" : "ScaredTurtle Server",
+  "tamedTime" : 11826.421268261969,
+  "tamer" : "Tribe of ScaredTurtle",
+  "tamingEffectivness" : 0.93888885,
+  "team" : 1384519171,
+  "tribe" : "Tribe of ScaredTurtle",
+  "type" : "Iguanodon",
+  "uploadedFromServerName" : "\nScaredTurtle Server",
+  "wildLevels" : {
+    "health" : 28,
+    "stamina" : 23,
+    "oxygen" : 32,
+    "food" : 15,
+    "weight" : 22,
+    "melee" : 24,
+    "speed" : 31
+  }
+} ]

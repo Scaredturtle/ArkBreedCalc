@@ -1,0 +1,101 @@
+[ {
+  "allowLevelUps" : true,
+  "baseLevel" : 104,
+  "colorSetIndices" : {
+    "0" : 35,
+    "2" : 50,
+    "3" : 11,
+    "4" : 14,
+    "5" : 34
+  },
+  "currentTameAffinity" : 7425.0,
+  "experience" : 2243.287,
+  "extraLevel" : 9,
+  "id" : 242656645998329958,
+  "lastEnterStasisTime" : 61429.2010916844,
+  "location" : {
+    "x" : -163605.86,
+    "y" : -42122.184,
+    "z" : 43050.453,
+    "lat" : 44.734726,
+    "lon" : 29.549267
+  },
+  "myInventoryComponent" : 45458,
+  "name" : "Meeko",
+  "requiredTameAffinity" : 6750.0,
+  "tamed" : true,
+  "tamedAtTime" : 42357.15489823371,
+  "tamedLevels" : {
+    "stamina" : 6,
+    "oxygen" : 3
+  },
+  "tamedOnServerName" : "ScaredTurtle Server",
+  "tamedTime" : 19075.49353926629,
+  "tamer" : "Tribe of ScaredTurtle",
+  "tamingEffectivness" : 0.9915825,
+  "tamingTeamID" : 1384519171,
+  "team" : 1384519171,
+  "tribe" : "Tribe of ScaredTurtle",
+  "type" : "Bulbdog",
+  "uploadedFromServerName" : "\nScaredTurtle Server",
+  "wildLevels" : {
+    "health" : 17,
+    "stamina" : 11,
+    "oxygen" : 16,
+    "food" : 18,
+    "weight" : 13,
+    "melee" : 13,
+    "speed" : 15
+  }
+}, {
+  "allowLevelUps" : true,
+  "baseLevel" : 22,
+  "colorSetIndices" : {
+    "0" : 46,
+    "2" : 32,
+    "3" : 12,
+    "4" : 39,
+    "5" : 35
+  },
+  "currentTameAffinity" : 4455.0,
+  "experience" : 2432.284,
+  "extraLevel" : 21,
+  "id" : 967582877059464645,
+  "lastEnterStasisTime" : 61429.23410240933,
+  "location" : {
+    "x" : -179248.33,
+    "y" : -60132.793,
+    "z" : 43298.242,
+    "lat" : 42.483402,
+    "lon" : 27.59396
+  },
+  "myInventoryComponent" : 45466,
+  "name" : "Pugsly",
+  "requiredTameAffinity" : 3175.0,
+  "tamed" : true,
+  "tamedAggressionLevel" : 1,
+  "tamedAtTime" : 42476.22744683176,
+  "tamedLevels" : {
+    "stamina" : 14,
+    "oxygen" : 4,
+    "melee" : 3
+  },
+  "tamedOnServerName" : "ScaredTurtle Server",
+  "tamedTime" : 18956.420990668237,
+  "tamer" : "Tribe of ScaredTurtle",
+  "tamingEffectivness" : 0.9949495,
+  "tamingTeamID" : 1384519171,
+  "team" : 1384519171,
+  "tribe" : "Tribe of ScaredTurtle",
+  "type" : "Bulbdog",
+  "uploadedFromServerName" : "\nScaredTurtle Server",
+  "wildLevels" : {
+    "health" : 3,
+    "stamina" : 1,
+    "oxygen" : 4,
+    "food" : 4,
+    "weight" : 1,
+    "melee" : 6,
+    "speed" : 2
+  }
+} ]

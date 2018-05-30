@@ -1,0 +1,46 @@
+[ {
+  "allowLevelUps" : true,
+  "baseLevel" : 164,
+  "colorSetIndices" : {
+    "0" : 56,
+    "4" : 40,
+    "5" : 22
+  },
+  "experience" : 16137.896,
+  "extraLevel" : 42,
+  "id" : 1292734574572332889,
+  "lastEnterStasisTime" : 61429.26810057834,
+  "location" : {
+    "x" : -165112.16,
+    "y" : -42177.92,
+    "z" : 43014.36,
+    "lat" : 44.72776,
+    "lon" : 29.360981
+  },
+  "myInventoryComponent" : 704,
+  "requiredTameAffinity" : 11200.0,
+  "tamed" : true,
+  "tamedAtTime" : 14905.070278201252,
+  "tamedLevels" : {
+    "health" : 17,
+    "weight" : 8,
+    "melee" : 17
+  },
+  "tamedOnServerName" : "ScaredTurtle Server",
+  "tamedTime" : 46527.57815929875,
+  "tamer" : "Tribe of ScaredTurtle",
+  "tamingEffectivness" : 0.9878472,
+  "team" : 1384519171,
+  "tribe" : "Tribe of ScaredTurtle",
+  "type" : "Ravager",
+  "uploadedFromServerName" : "\nScaredTurtle Server",
+  "wildLevels" : {
+    "health" : 30,
+    "stamina" : 25,
+    "oxygen" : 26,
+    "food" : 23,
+    "weight" : 23,
+    "melee" : 23,
+    "speed" : 13
+  }
+} ]

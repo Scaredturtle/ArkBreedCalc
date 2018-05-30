@@ -1,0 +1,49 @@
+[ {
+  "allowLevelUps" : true,
+  "baseLevel" : 29,
+  "colorSetIndices" : {
+    "0" : 25,
+    "4" : 22,
+    "5" : 47
+  },
+  "experience" : 4355.2007,
+  "extraLevel" : 25,
+  "female" : true,
+  "id" : 1343796500111764681,
+  "lastEnterStasisTime" : 61429.133632514626,
+  "location" : {
+    "x" : -164126.72,
+    "y" : -41047.652,
+    "z" : 43181.91,
+    "lat" : 44.86904,
+    "lon" : 29.48416
+  },
+  "myInventoryComponent" : 45066,
+  "name" : "Speedy",
+  "requiredTameAffinity" : 5600.0,
+  "tamed" : true,
+  "tamedAtTime" : 42020.75279823318,
+  "tamedLevels" : {
+    "health" : 17,
+    "weight" : 5,
+    "melee" : 1,
+    "speed" : 2
+  },
+  "tamedOnServerName" : "ScaredTurtle Server",
+  "tamedTime" : 19411.89563926682,
+  "tamer" : "Tribe of ScaredTurtle",
+  "tamingEffectivness" : 0.9822222,
+  "team" : 1384519171,
+  "tribe" : "Tribe of ScaredTurtle",
+  "type" : "Aberrant Iguanodon",
+  "uploadedFromServerName" : "\nScaredTurtle Server",
+  "wildLevels" : {
+    "health" : 6,
+    "stamina" : 4,
+    "oxygen" : 2,
+    "food" : 6,
+    "weight" : 2,
+    "melee" : 6,
+    "speed" : 2
+  }
+} ]

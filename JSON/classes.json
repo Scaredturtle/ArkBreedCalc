@@ -1,13 +1,22 @@
 [ {
-  "cls" : "Dodo_Character_BP_C",
-  "name" : "Dodo"
+  "cls" : "Iguanodon_Character_BP_Aberrant_C",
+  "name" : "Aberrant Iguanodon"
 }, {
-  "cls" : "Trike_Character_BP_C",
-  "name" : "Triceratops"
+  "cls" : "Raptor_Character_BP_Aberrant_C",
+  "name" : "Aberrant Raptor"
 }, {
-  "cls" : "Dilo_Character_BP_C",
-  "name" : "Dilophosaur"
+  "cls" : "Iguanodon_Character_BP_C",
+  "name" : "Iguanodon"
 }, {
-  "cls" : "Pela_Character_BP_C",
-  "name" : "Pelagornis"
+  "cls" : "Stego_Character_BP_Aberrant_C",
+  "name" : "Aberrant Stegosaurus"
+}, {
+  "cls" : "Spino_Character_BP_Aberrant_C",
+  "name" : "Aberrant Spino"
+}, {
+  "cls" : "CaveWolf_Character_BP_C",
+  "name" : "Ravager"
+}, {
+  "cls" : "LanternPug_Character_BP_C",
+  "name" : "Bulbdog"
 } ]

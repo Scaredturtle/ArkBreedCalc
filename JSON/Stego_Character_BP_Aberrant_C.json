@@ -1,0 +1,50 @@
+[ {
+  "allowLevelUps" : true,
+  "baseLevel" : 202,
+  "colorSetIndices" : {
+    "0" : 20,
+    "1" : 26,
+    "2" : 26,
+    "3" : 20,
+    "4" : 26,
+    "5" : 14
+  },
+  "experience" : 12187.607,
+  "extraLevel" : 41,
+  "id" : 1736458928662655396,
+  "lastEnterStasisTime" : 61429.26810057834,
+  "location" : {
+    "x" : -165478.98,
+    "y" : -43764.926,
+    "z" : 43207.664,
+    "lat" : 44.529385,
+    "lon" : 29.315126
+  },
+  "myInventoryComponent" : 43333,
+  "requiredTameAffinity" : 46500.0,
+  "tamed" : true,
+  "tamedAtTime" : 7390.91553305462,
+  "tamedLevels" : {
+    "health" : 3,
+    "weight" : 33,
+    "melee" : 5
+  },
+  "tamedOnServerName" : "ScaredTurtle Server",
+  "tamedTime" : 54041.73290444538,
+  "tamer" : "ScaredTurtle",
+  "tamingEffectivness" : 1.0,
+  "tamingTeamID" : 1384519171,
+  "team" : 1384519171,
+  "tribe" : "Tribe of ScaredTurtle",
+  "type" : "Aberrant Stegosaurus",
+  "uploadedFromServerName" : "\nScaredTurtle Server",
+  "wildLevels" : {
+    "health" : 33,
+    "stamina" : 27,
+    "oxygen" : 24,
+    "food" : 34,
+    "weight" : 27,
+    "melee" : 26,
+    "speed" : 30
+  }
+} ]

@@ -1,0 +1,96 @@
+[ {
+  "allowLevelUps" : true,
+  "baseLevel" : 142,
+  "colorSetIndices" : {
+    "0" : 22,
+    "1" : 25,
+    "2" : 27,
+    "4" : 14,
+    "5" : 21
+  },
+  "experience" : 21533.195,
+  "extraLevel" : 45,
+  "female" : true,
+  "id" : 956727669422323072,
+  "lastEnterStasisTime" : 61429.2010916844,
+  "location" : {
+    "x" : -166537.94,
+    "y" : -46950.207,
+    "z" : 43188.51,
+    "lat" : 44.131226,
+    "lon" : 29.182758
+  },
+  "myInventoryComponent" : 44593,
+  "requiredTameAffinity" : 17450.0,
+  "tamed" : true,
+  "tamedAtTime" : 31765.51557943225,
+  "tamedLevels" : {
+    "health" : 15,
+    "melee" : 30
+  },
+  "tamedOnServerName" : "ScaredTurtle Server",
+  "tamedTime" : 29667.13285806775,
+  "tamer" : "Red-Eyes Black Dragon",
+  "tamingEffectivness" : 1.0,
+  "tamingTeamID" : 1384519171,
+  "team" : 1384519171,
+  "tribe" : "Tribe of ScaredTurtle",
+  "type" : "Aberrant Spino",
+  "uploadedFromServerName" : "\nScaredTurtle Server",
+  "wildLevels" : {
+    "health" : 16,
+    "stamina" : 19,
+    "oxygen" : 32,
+    "food" : 18,
+    "weight" : 16,
+    "melee" : 12,
+    "speed" : 28
+  }
+}, {
+  "allowLevelUps" : true,
+  "baseLevel" : 42,
+  "colorSetIndices" : {
+    "0" : 35,
+    "1" : 20,
+    "2" : 28,
+    "4" : 14,
+    "5" : 21
+  },
+  "experience" : 14598.755,
+  "extraLevel" : 42,
+  "id" : 2085353879517866189,
+  "lastEnterStasisTime" : 61429.30160923302,
+  "location" : {
+    "x" : -178707.75,
+    "y" : -59420.633,
+    "z" : 43623.867,
+    "lat" : 42.572422,
+    "lon" : 27.661531
+  },
+  "myInventoryComponent" : 43505,
+  "requiredTameAffinity" : 7700.0,
+  "tamed" : true,
+  "tamedAggressionLevel" : 1,
+  "tamedAtTime" : 26344.837661039084,
+  "tamedLevels" : {
+    "health" : 19,
+    "melee" : 23
+  },
+  "tamedOnServerName" : "ScaredTurtle Server",
+  "tamedTime" : 35087.810776460916,
+  "tamer" : "Tribe of ScaredTurtle",
+  "tamingEffectivness" : 0.8263622,
+  "team" : 1384519171,
+  "tribe" : "Tribe of ScaredTurtle",
+  "type" : "Aberrant Spino",
+  "uploadedFromServerName" : "\nScaredTurtle Server",
+  "wildLevels" : {
+    "health" : 8,
+    "stamina" : 8,
+    "oxygen" : 6,
+    "food" : 1,
+    "weight" : 5,
+    "melee" : 5,
+    "speed" : 8
+  }
+} ]

@@ -1,0 +1,49 @@
+[ {
+  "allowLevelUps" : true,
+  "baseLevel" : 115,
+  "colorSetIndices" : {
+    "0" : 34,
+    "1" : 26,
+    "3" : 27,
+    "4" : 25,
+    "5" : 25
+  },
+  "experience" : 14305.333,
+  "extraLevel" : 42,
+  "id" : 1817795288612714511,
+  "lastEnterStasisTime" : 61429.30160923302,
+  "location" : {
+    "x" : -164884.33,
+    "y" : -42871.168,
+    "z" : 43017.98,
+    "lat" : 44.641106,
+    "lon" : 29.38946
+  },
+  "myInventoryComponent" : 758,
+  "name" : "Rocky",
+  "requiredTameAffinity" : 6000.0,
+  "tamed" : true,
+  "tamedAggressionLevel" : 1,
+  "tamedAtTime" : 11129.29148599878,
+  "tamedLevels" : {
+    "health" : 32,
+    "melee" : 10
+  },
+  "tamedOnServerName" : "ScaredTurtle Server",
+  "tamedTime" : 50303.35695150122,
+  "tamer" : "Tribe of ScaredTurtle",
+  "tamingEffectivness" : 0.875,
+  "team" : 1384519171,
+  "tribe" : "Tribe of ScaredTurtle",
+  "type" : "Aberrant Raptor",
+  "uploadedFromServerName" : "\nScaredTurtle Server",
+  "wildLevels" : {
+    "health" : 21,
+    "stamina" : 15,
+    "oxygen" : 12,
+    "food" : 24,
+    "weight" : 19,
+    "melee" : 9,
+    "speed" : 14
+  }
+} ]
