@@ -4,12 +4,12 @@ import os
 
 class DinoData:
     def initDino(self):
-        workingDir = ".\\JSON\\"
+        workingDir = os.path.join(".", "JSON")
         tameTypes = []
         tameFiles = []
         typeNames = []
 
-        clfile = open(workingDir + 'classes.json', 'r')
+        clfile = open(os.path.join(workingDir, "classes.json"), 'r')
         dinocl = json.load(clfile)
         clfile.close()
         del tameTypes[:]
