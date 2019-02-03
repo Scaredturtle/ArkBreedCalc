@@ -17,4 +17,4 @@ class Database:
         self.cursor.execute(statement)
 
     def insertBaseData(self, tableName):
-        
+        pass
