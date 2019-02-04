@@ -3,18 +3,19 @@ import os
 
 
 class Database:
-    def connect(self):
-        dataConnection = sqlite3.connect(".\\dinoData\\dinoData.db")
-        self.cursor = dataConnection.cursor()
+    def create_connection(self):
+        self.database_file = sqlite3.connect(os.path.join(".", "dinoData", "dinoData.db"))
+        self.cursor = self.database_file.cursor()
+        
+        return self.database_file, self.cursor
 
-    def baseTable(self): 
-        query = "CREATE TABLE IF NOT EXISTS dinoData(dino TEXT, Health REAL, Stamina REAL, Oxygen REAL, Food REAL, Weight REAL, Melee REAL, Speed Real)"
-        self.cursor.execute(query)
-        self.cursor.commit()
+    def new_cursor(self):
+        self.cursor.close()
+        self.cursor = self.database_file.cursor()
 
-    def pullFromTable(self, creature):
-        statement = "SELECT {0} FROM {0}".format(creature)
-        self.cursor.execute(statement)
+        return self.cursor
 
-    def insertBaseData(self, tableName):
-        pass
+    def close_connection(self):
+        self.cursor.close()
+        self.database_file.close()
+        

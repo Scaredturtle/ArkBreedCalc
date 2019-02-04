@@ -1,0 +1,348 @@
+,Name,Released,Group,Diet,Temperament,Tameable,RideableRide,BreedableBreed,Saddle LevelSaddle,Feces SizeFeces,Entity_ID
+0,Abberant Coelacanth,,Aberrant Creatures,Omnivore?,Reactive,No,No,No,,None,Coel_Character_BP_Aberrant_C
+1,Aberrant Achatina,,Aberrant Creatures,Herbivore,Passive,Yes,No,No,Unknown,None,Achatina_Character_BP_Aberrant_C
+2,Aberrant Anglerfish,,Aberrant Creatures,Carnivore,Aggressive,Yes,Yes,Yes,Bareback,None,Angler_Character_BP_Aberrant_C
+3,Aberrant Ankylosaurus,,Aberrant Creatures,Herbivore,Docile,Yes,Yes,Yes,Unknown,Medium,Ankylo_Character_BP_Aberrant_C
+4,Aberrant Araneo,,Aberrant Creatures,Carnivore,Aggressive,Yes,Yes,No,Unknown,None,SpiderS_Character_BP_Aberrant_C
+5,Aberrant Arthropluera,,Aberrant Creatures,Carrion-Feeder,Aggressive,Yes,Yes,No,Unknown,None,Arthro_Character_BP_Aberrant_C
+6,Aberrant Baryonyx,,Aberrant Creatures,Piscivore,"Passive to land creatures, but aggressive to water-dwellers",Yes,Yes,Yes,Unknown,Medium,Baryonyx_Character_BP_Aberrant_C
+7,Aberrant Beelzebufo,,Aberrant Creatures,Carnivore,Languorous,Yes,Yes,Yes,Unknown,None,Toad_Character_BP_Aberrant_C
+8,Aberrant Carbonemys,,Aberrant Creatures,Herbivore,Defensive,Yes,Yes,Yes,Unknown,Small,Turtle_Character_BP_Aberrant_C
+9,Aberrant Carnotaurus,,Aberrant Creatures,Carnivore,Aggressive,Yes,Yes,Yes,Unknown,Medium,Carno_Character_BP_Aberrant_C
+10,Aberrant Cnidaria,,Aberrant Creatures,Carnivore,"Passive, but aggressive at close range",No,No,No,,None,Cnidaria_Character_BP_Aberrant_C
+11,Aberrant Dimetrodon,,Aberrant Creatures,Carnivore,Reactive,Yes,No,Yes,Unknown,Medium,Dimetro_Character_BP_Aberrant_C
+12,Aberrant Dimorphodon,,Aberrant Creatures,Carnivore,Reactive,Yes,No,Yes,Unknown,Small,Dimorph_Character_BP_Aberrant_C
+13,Aberrant Diplocaulus,,Aberrant Creatures,Piscivore,Skittish,Yes,Yes,Yes,Bareback,Small,Diplocaulus_Character_BP_Aberrant_C
+14,Aberrant Diplodocus,,Aberrant Creatures,Herbivore,Naive,Yes,Yes,Yes,Unknown,Large,Diplodocus_Character_BP_Aberrant_C
+15,Aberrant Dire Bear,,Aberrant Creatures,Omnivore,Territorial,Yes,Yes,Yes,Unknown,Medium,Direbear_Character_BP_Aberrant_C
+16,Aberrant Dodo,,Aberrant Creatures,Herbivore,Oblivious,Yes,No,Yes,Unknown,Small,Dodo_Character_BP_Aberrant_C
+17,Aberrant Doedicurus,,Aberrant Creatures,Herbivore,Docile,Yes,Yes,Yes,Unknown,Medium,Doed_Character_BP_Aberrant_C
+18,Aberrant Dung Beetle,,Aberrant Creatures,Coprophagic,Passive,Yes,No,No,Unknown,None,DungBeetle_Character_BP_Aberrant_C
+19,Aberrant Electrophorus,,Aberrant Creatures,Carnivore,Reactive,Yes,No,Yes,Unknown,None,Eel_Character_BP_Aberrant_C
+20,Aberrant Equus,,Aberrant Creatures,Herbivore,Loyal,Yes,Yes,Yes,Unknown,Medium,Equus_Character_BP_Aberrant_C
+21,Aberrant Gigantopithecus,,Aberrant Creatures,Herbivore,Territorial,Yes,Yes,Yes,Bareback,Small,Bigfoot_Character_BP_Aberrant_C
+22,Aberrant Iguanodon,,Aberrant Creatures,Herbivore,Reactive,Yes,Yes,Yes,Unknown,Small,Iguanodon_Character_BP_Aberrant_C
+23,Aberrant Lystrosaurus,,Aberrant Creatures,Herbivore,Loyal,Yes,No,Yes,Unknown,Small,Lystro_Character_BP_Aberrant_C
+24,Aberrant Manta,,Aberrant Creatures,Carnivore,Defensive,Yes,Yes,Yes,Unknown,None,Manta_Character_BP_Aberrant_C
+25,Aberrant Megalania,,Aberrant Creatures,Carnivore,Aggressive,Yes,Yes,Yes,Unknown,Small,Megalania_Character_BP_Aberrant_C
+26,Aberrant Megalosaurus,,Aberrant Creatures,Carnivore,Nocturnally Aggressive,Yes,Yes,Yes,Unknown,Medium,Megalosaurus_Character_BP_Aberrant_C
+27,Aberrant Meganeura,,Aberrant Creatures,Carnivore,Reactive,No,No,No,,None,Dragonfly_Character_BP_Aberrant_C
+28,Aberrant Moschops,,Aberrant Creatures,Omnivore,Cowardly,Yes,Yes,Yes,Unknown,Small,Moschops_Character_BP_Aberrant_C
+29,Aberrant Otter,,Aberrant Creatures,Omnivore,Friendly,Yes,No,Yes,Unknown,Small,Otter_Character_BP_Aberrant_C
+30,Aberrant Ovis,,Aberrant Creatures,Herbivore,Stupid,Yes,Yes,Yes,Bareback,Small,Sheep_Character_BP_Aberrant_C
+31,Aberrant Paraceratherium,,Aberrant Creatures,Herbivore,Docile,Yes,Yes,Yes,Unknown,Large,Paracer_Character_BP_Aberrant_C
+32,Aberrant Parasaur,,Aberrant Creatures,Herbivore,Skittish,Yes,Yes,Yes,Unknown,Medium,Para_Character_BP_Aberrant_C
+33,Aberrant Piranha,,Aberrant Creatures,Carnivore,Aggressive,No,No,No,,None,Piranha_Character_BP_Aberrant_C
+34,Aberrant Pulmonoscorpius,,Aberrant Creatures,Carnivore,Aggressive,Yes,Yes,No,Unknown,Small,Scorpion_Character_BP_Aberrant_C
+35,Aberrant Purlovia,,Aberrant Creatures,Carnivore,Patient,Yes,No,Yes,Unknown,Medium,Purlovia_Character_BP_Aberrant_C
+36,Aberrant Raptor,,Aberrant Creatures,Carnivore,Aggressive,Yes,Yes,Yes,Unknown,Small,Raptor_Character_BP_Aberrant_C
+37,Aberrant Salmon,,Aberrant Creatures,Carnivore,"Evasive, Aggressive when attacked",No,No,No,,None,Salmon_Character_Aberrant_C
+38,Aberrant Sarco,,Aberrant Creatures,Carnivore,Patient,Yes,Yes,Yes,Unknown,Medium,Sarco_Character_BP_Aberrant_C
+39,Aberrant Spino,,Aberrant Creatures,Carnivore,Territorial,Yes,Yes,Yes,Unknown,Large,Spino_Character_BP_Aberrant_C
+40,Aberrant Spinosaur,,Aberrant Creatures,Unknown,Unknown,No,No,No,,Unknown,Unknown
+41,Aberrant Stegosaurus,,Aberrant Creatures,Herbivore,Docile,Yes,Yes,Yes,Unknown,Medium,Stego_Character_BP_Aberrant_C
+42,Aberrant Titanoboa,,Aberrant Creatures,Carnivore,Aggressive,Yes,No,No,Unknown,None,BoaFrill_Character_BP_Aberrant_C
+43,Aberrant Triceratops,,Aberrant Creatures,Herbivore,Short-Tempered,Yes,Yes,Yes,Unknown,Medium,Trike_Character_BP_Aberrant_C
+44,Aberrant Trilobite,,Aberrant Creatures,Carnivore,Defensive,No,No,No,,None,Trilobite_Character_Aberrant_C
+45,Achatina,,Invertebrates,Herbivore,Passive,Yes,No,No,Unknown,None,Achatina_Character_BP_C
+46,Allosaurus,,Dinosaurs,Carnivore,Aggressive,Yes,Yes,Yes,67,Medium,Allo_Character_BP_C
+47,Alpha Basilisk,,Alpha Predators,Carnivore,Aggressive,No,No,No,,None,MegaBasilisk_Character_BP_C
+48,Alpha Carnotaurus,,Alpha Predators,Carnivore,Aggressive,No,No,No,,None,MegaCarno_Character_BP_C
+49,Alpha Deathworm,,Alpha Predators,Carnivore,Extremely Territorial,No,No,No,,None,MegaDeathworm_Character_BP_C
+50,Alpha Fire Wyvern,,Alpha Predators,Carnivore,Aggressive,No,No,No,,None,MegaWyvern_Character_BP_Fire_C
+51,Alpha Karkinos,,Alpha Predators,Carnivore,Aggressive,No,No,No,,None,MegaCrab_Character_BP_C
+52,Alpha King Titan,,Titans,Unknown,Highly Aggressive,No,No,No,,Small,KingKaiju_Character_BP_Alpha_C
+53,Alpha Leedsichthys,,Alpha Predators,Piscivore,Defensive,No,No,No,,None,Alpha_Leedsichthys_Character_BP_C
+54,Alpha Megalodon,,Alpha Predators,Carnivore,Aggressive,No,No,No,,None,MegaMegalodon_Character_BP_C
+55,Alpha Mosasaur,,Alpha Predators,Carnivore,Aggressive,No,No,No,,None,Mosa_Character_BP_Mega_C
+56,Alpha Mosasaur - Caverns,,Alpha Predators,Carnivore,Aggressive,No,No,No,,None,Mosa_Character_BP_Mega_Cave_C
+57,Alpha Raptor,,Alpha Predators,Carnivore,Aggressive,No,No,No,,None,MegaRaptor_Character_BP_C
+58,Alpha Surface Reaper King,,Alpha Predators,Carnivore,Aggressive,No,No,No,,None,MegaXenomorph_Character_BP_Male_Surface_C
+59,Alpha T-Rex,,Alpha Predators,Carnivore,Aggressive,No,No,No,,None,MegaRex_Character_BP_C
+60,Alpha Tusoteuthis,,Alpha Predators,Carnivore,Aggressive,No,No,No,,None,Mega_Tusoteuthis_Character_BP_C
+61,Ammonite,,Invertebrates,Bottom Feeder,Passive,No,No,No,,None,Ammonite_Character_C
+62,Anglerfish,,Fish,Carnivore,Aggressive,Yes,Yes,Yes,Bareback,None,Angler_Character_BP_C
+63,Ankylosaurus,,Dinosaurs,Herbivore,Docile,Yes,Yes,Yes,36,Medium,Ankylo_Character_BP_C
+64,Araneo,,Invertebrates,Carnivore,Aggressive,Yes,Yes,No,40,None,SpiderS_Character_BP_C
+65,Archaeopteryx,,Birds,Carnivore,Fearful,Yes,No,Yes,Unknown,Small,Archa_Character_BP_C
+66,Argentavis,,Birds,Carrion-Feeder,Short-Tempered,Yes,Yes,Yes,62,Medium,Argent_Character_BP_C
+67,Arthropluera,,Invertebrates,Carrion-Feeder,Aggressive,Yes,Yes,No,54,None,Arthro_Character_BP_C
+68,Attack Drone,,Mechanical,Unknown,Aggressive,No,No,No,,None,EndDrone_Character_BP_C
+69,Attack Drone - Alpha Overseer Arena,,Mechanical,Unknown,Aggressive,No,No,No,,None,EndDrone_Character_BP_Hard_C
+70,Attack Drone - Beta Overseer Arena,,Mechanical,Unknown,Aggressive,No,No,No,,None,EndDrone_Character_BP_Med_C
+71,Baryonyx,,Dinosaurs,Piscivore,"Passive to land creatures, but aggressive to water-dwellers",Yes,Yes,Yes,49,Medium,Baryonyx_Character_BP_C
+72,Basilisk,,Fantasy,Carnivore,Aggressive,Yes,Yes,No,85,None,Basilisk_Character_BP_C
+73,Basilosaurus,,Mammals,Piscivore,Passive,Yes,Yes,Yes,60,None,Basilosaurus_Character_BP_C
+74,Beelzebufo,,Amphibians,Carnivore,Languorous,Yes,Yes,Yes,40,None,Toad_Character_BP_C
+75,Beta King Titan,,Titans,Unknown,Highly Aggressive,No,No,No,,Small,KingKaiju_Character_BP_Beta_C
+76,Bone Fire Wyvern,,Event Creatures,Carnivore,Aggressive,No,No,No,,Medium,Bone_MegaWyvern_Character_BP_Fire_C
+77,Brontosaurus,,Dinosaurs,Herbivore,Docile,Yes,Yes,Yes,63,Large,Sauropod_Character_BP_C
+78,Broodmother Guardian,,Bosses,Unknown,Aggressive,No,No,No,,None,EndBossSpiderL_Character_BP_C
+79,Broodmother Lysrix,,Bosses,Carnivore,Aggressive,No,No,No,,None,SpiderL_Character_BP_C
+80,Broodmother Lysrix (Alpha),,Bosses,Carnivore,Aggressive,No,No,No,,None,SpiderL_Character_BP_Hard_C
+81,Broodmother Lysrix (Alpha) - Overseer Arena,,Bosses,Unknown,Aggressive,No,No,No,,None,EndBossSpiderL_Character_BP_Hard_C
+82,Broodmother Lysrix (Beta),,Bosses,Carnivore,Aggressive,No,No,No,,None,SpiderL_Character_BP_Medium_C
+83,Broodmother Lysrix (Beta) - Overseer Arena,,Bosses,Unknown,Aggressive,No,No,No,,None,EndBossSpiderL_Character_BP_Medium_C
+84,Broodmother Lysrix (Beta) - The Center Arena,,Bosses,Carnivore,Aggressive,No,No,No,,None,SpiderL_Character_BP_TheCenterMedium_C
+85,Broodmother Lysrix (Gamma),,Bosses,Carnivore,Aggressive,No,No,No,,None,SpiderL_Character_BP_Easy_C
+86,Broodmother Lysrix (Gamma) - Overseer Arena,,Bosses,Unknown,Aggressive,No,No,No,,None,EndBossSpiderL_Character_BP_Easy_C
+87,Broodmother Lysrix (Gamma) - The Center Arena,,Bosses,Carnivore,Aggressive,No,No,No,,None,SpiderL_Character_BP_TheCenter_C
+88,Bulbdog,,Fantasy,Herbivore,Passive,Yes,No,Yes,Unknown,Small,LanternPug_Character_BP_C
+89,Bunny Dodo,,Event Creatures,Herbivore,Oblivious,No,No,No,,Small,Dodo_Character_BP_Bunny_C
+90,Bunny Oviraptor,,Event Creatures,Carnivore,Skittish,No,No,No,,Small,Bunny_Oviraptor_Character_BP_C
+91,Carbonemys,,Reptiles,Herbivore,Defensive,Yes,Yes,Yes,10,Small,Turtle_Character_BP_C
+92,Carnotaurus,,Dinosaurs,Carnivore,Aggressive,Yes,Yes,Yes,46,Medium,Carno_Character_BP_C
+93,Castoroides,,Mammals,Herbivore,Friendly,Yes,Yes,Yes,61,Medium,Beaver_Character_BP_C
+94,Chalicotherium,,Mammals,Herbivore,Territorial,Yes,Yes,Yes,42,Medium,Chalico_Character_BP_C
+95,Cnidaria,,Invertebrates,Herbivore,"Passive, but aggressive at close range",No,No,No,,None,Cnidaria_Character_BP_C
+96,Coelacanth,,Fish,Omnivore?,Reactive,Yes,No,No,Unknown,None,Coel_Character_BP_C
+97,Coelacanth - Underwater,,Fish,Omnivore?,Reactive,No,No,No,,None,Coel_Character_BP_Ocean_C
+98,Compy,,Dinosaurs,Carnivore,Curious,Yes,No,Yes,Unknown,Small,Compy_Character_BP_C
+99,Corrupt Tumor,,Fantasy,Unknown,Unknown,No,No,No,,Unknown,CorruptTumor_Character_BP_C
+100,Corrupted Arthropluera,,Corrupted Creatures,Carrion-Feeder,Highly Aggressive,No,No,No,,Unknown,Arthro_Character_BP_Corrupt_C
+101,Corrupted Carnotaurus,,Corrupted Creatures,Carnivore,Highly Aggressive,No,No,No,,Medium,Carno_Character_BP_Corrupt_C
+102,Corrupted Chalicotherium,,Corrupted Creatures,Herbivore,Highly Aggressive,No,No,No,,Medium,Chalico_Character_BP_Corrupt_C
+103,Corrupted Dilophosaur,,Corrupted Creatures,Carnivore,Highly Aggressive,No,No,No,,Small,Dilo_Character_BP_Corrupt_C
+104,Corrupted Dimorphodon,,Corrupted Creatures,Carnivore,Highly Aggressive,No,No,No,,Small,Dimorph_Character_BP_Corrupt_C
+105,Corrupted Giganotosaurus,,Corrupted Creatures,Carnivore,Highly Aggressive,No,No,No,,Large,Gigant_Character_BP_Corrupt_C
+106,Corrupted Paraceratherium,,Corrupted Creatures,Herbivore,Highly Aggressive,No,No,No,,Large,Paracer_Character_BP_Corrupt_C
+107,Corrupted Pteranodon,,Corrupted Creatures,Carnivore,Highly Aggressive,No,No,No,,Small,Ptero_Character_BP_Corrupt_C
+108,Corrupted Raptor,,Corrupted Creatures,Carnivore,Highly Aggressive,No,No,No,,Small,Raptor_Character_BP_Corrupt_C
+109,Corrupted Reaper King,,Corrupted Creatures,Carnivore,Highly Aggressive,No,No,No,,Unknown,Xenomorph_Character_BP_Male_Tamed_Corrupt_C
+110,Corrupted Rex,,Corrupted Creatures,Carnivore,Highly Aggressive,No,No,No,,Large,Rex_Character_BP_Corrupt_C
+111,Corrupted Rock Drake,,Corrupted Creatures,Carnivore,Highly Aggressive,No,No,No,,Large,RockDrake_Character_BP_Corrupt_C
+112,Corrupted Spino,,Corrupted Creatures,Carnivore,Highly Aggressive,No,No,No,,Large,Spino_Character_BP_Corrupt_C
+113,Corrupted Stegosaurus,,Corrupted Creatures,Herbivore,Highly Aggressive,No,No,No,,Medium,Stego_Character_BP_Corrupt_C
+114,Corrupted Triceratops,,Corrupted Creatures,Herbivore,Highly Aggressive,No,No,No,,Medium,Trike_Character_BP_Corrupt_C
+115,Corrupted Wyvern,,Corrupted Creatures,Carnivore,Highly Aggressive,No,No,No,,Medium,Wyvern_Character_BP_Fire_Corrupt_C
+116,Daeodon,,Mammals,Carnivore,Territorial,Yes,Yes,Yes,59,Medium,Daeodon_Character_BP_C
+117,Deathworm,,Fantasy,Carnivore,Extremely Territorial,No,No,No,,None,Deathworm_Character_BP_C
+118,Deathworm - Manticore Arena,,Fantasy,Carnivore,Extremely Territorial,No,No,No,,None,Deathworm_Character_Minion_BP_C
+119,Defense Unit,,Mechanical,Unknown,Aggressive,No,No,No,,None,EndTank_Character_BP_C
+120,Defense Unit - Alpha Overseer Arena,,Mechanical,Unknown,Aggressive,No,No,No,,None,EndTank_Character_BP_Hard_C
+121,Defense Unit - Beta Overseer Arena,,Mechanical,Unknown,Aggressive,No,No,No,,None,EndTank_Character_BP_Med_C
+122,Defense Unit - Sanctuary,,Mechanical,Unknown,Aggressive,No,No,No,,None,Defender_Character_BP_C
+123,Desert Titan,,Titans,Unknown,Highly Aggressive,Yes,Yes,No,Unknown,Unknown,DesertKaiju_Character_BP_C
+124,Desert Titan Flock,,Fantasy,Unknown,Unknown,No,No,No,,Unknown,DesertKaiju_FirstFlockChar_BP_C
+125,Dilophosaur,,Dinosaurs,Carnivore,Aggressive,Yes,No,Yes,Unknown,Small,Dilo_Character_BP_C
+126,Dimetrodon,,Synapsids,Carnivore,Reactive,Yes,No,Yes,Unknown,Medium,Dimetro_Character_BP_C
+127,Dimorphodon,,Reptiles,Carnivore,Reactive,Yes,No,Yes,Unknown,Small,Dimorph_Character_BP_C
+128,Diplocaulus,,Amphibians,Piscivore,Skittish,Yes,Yes,Yes,Bareback,Small,Diplocaulus_Character_BP_C
+129,Diplodocus,,Dinosaurs,Herbivore,Naive,Yes,Yes,Yes,32,Large,Diplodocus_Character_BP_C
+130,Dire Polar Bear,,Mammals,Omnivore,Territorial,Yes,Yes,Yes,Unknown,Medium,Polar_Bear_C
+131,Direbear,,Mammals,Omnivore,Territorial,Yes,Yes,Yes,45,Medium,Direbear_Character_BP_C
+132,Direbear - LifesLabyrinth,,Fantasy,Omnivore,Territorial,Yes,Yes,Yes,Unknown,Medium,Direbear_LL_Character_BP_C
+133,Direwolf,,Mammals,Carnivore,Aggressive,Yes,Yes,Yes,Bareback,Small,Direwolf_Character_BP_C
+134,Direwolf - LifesLabyrinth,,Fantasy,Carnivore,Aggressive,Yes,Yes,Yes,Bareback,Small,Direwolf_LL_Character_BP_C
+135,Diseased Leech,,Invertebrates,Sanguinivore,Passive-Aggressive,No,No,No,,None,Leech_Character_Diseased_C
+136,Dodo,,Birds,Herbivore,Oblivious,Yes,No,Yes,Unknown,Small,Dodo_Character_BP_C
+137,Dodo Wyvern,,Event Creatures,Carnivore,Aggressive,No,No,No,,Medium,DodoWyvern_Character_BP_C
+138,DodoRex,,Event Creatures,Carnivore,Aggressive,Yes,Yes,No,Bareback,None,DodoRex_Character_BP_C
+139,Doedicurus,,Mammals,Herbivore,Docile,Yes,Yes,Yes,34,Medium,Doed_Character_BP_C
+140,Dragon,,Bosses,Carnivore,Aggressive,No,No,No,,None,Dragon_Character_BP_Boss_C
+141,Dragon (Alpha),,Bosses,Carnivore,Aggressive,No,No,No,,None,Dragon_Character_BP_Boss_Hard_C
+142,Dragon (Alpha) - Overseer Arena,,Bosses,Unknown,Aggressive,No,No,No,,None,EndBossDragon_Character_BP_Hard_C
+143,Dragon (Alpha) - Ragnarok Arena,,Bosses,Carnivore,Aggressive,No,No,No,,None,Dragon_Character_BP_Boss_Hard_Ragnarok_C
+144,Dragon (Beta),,Bosses,Carnivore,Aggressive,No,No,No,,None,Dragon_Character_BP_Boss_Medium_C
+145,Dragon (Beta) - Overseer Arena,,Bosses,Unknown,Aggressive,No,No,No,,None,EndBossDragon_Character_BP_Medium_C
+146,Dragon (Beta) - Ragnarok Arena,,Bosses,Carnivore,Aggressive,No,No,No,,None,Dragon_Character_BP_Boss_Medium_Ragnarok_C
+147,Dragon (Gamma),,Bosses,Carnivore,Aggressive,No,No,No,,None,Dragon_Character_BP_Boss_Easy_C
+148,Dragon (Gamma) - Overseer Arena,,Bosses,Unknown,Aggressive,No,No,No,,None,EndBossDragon_Character_BP_Easy_C
+149,Dragon (Gamma) - Ragnarok Arena,,Bosses,Carnivore,Aggressive,No,No,No,,None,Dragon_Character_BP_Boss_Easy_Ragnarok_C
+150,Dragon Guardian,,Bosses,Unknown,Aggressive,No,No,No,,None,EndBossDragon_Character_BP_C
+151,Dung Beetle,,Invertebrates,Coprophagic,Passive,Yes,No,No,Unknown,None,DungBeetle_Character_BP_C
+152,Dunkleosteus,,Fish,Carnivore,Docile,Yes,Yes,Yes,44,None,Dunkle_Character_BP_C
+153,Electrophorus,,Fish,Carnivore,Reactive,Yes,No,Yes,Unknown,None,Eel_Character_BP_C
+154,Elemental Reaper King,,Fantasy,Carnivore,Aggressive,No,No,No,,None,Xenomorph_Character_BP_Male_Minion_C
+155,Enforcer,,Mechanical,Unknown,Unknown,Yes,Yes,No,Unknown,Unknown,Enforcer_Character_BP_C
+156,Enraged Corrupted Rex,,Enraged Creatures,Carnivore,Highly Aggressive,No,No,No,,Large,MegaRex_Character_BP_Corrupt_C
+157,Enraged Triceratops,,Enraged Creatures,Herbivore,Highly Aggressive,No,No,No,,Medium,MegaTrike_Character_BP_Corrupt_C
+158,Equus,,Mammals,Herbivore,Loyal,Yes,Yes,Yes,20,Medium,Equus_Character_BP_C
+159,Eurypterid,,Invertebrates,Carnivore,Aggressive if approached,No,No,No,,None,Euryp_Character_C
+160,Featherlight,,Fantasy,Herbivore,Passive,Yes,No,Yes,Unknown,Small,LanternBird_Character_BP_C
+161,Fire Wyvern,,Fantasy,Carnivore,Aggressive,No,Yes,No,Bareback,Medium,Wyvern_Character_BP_Fire_C
+162,Forest Titan,,Titans,Unknown,Highly Aggressive,Yes,Yes,No,Unknown,Unknown,ForestKaiju_Character_BP_C
+163,Forest Wyvern,,Fantasy,Unknown,Unknown,No,Yes,No,Unknown,Medium,Wyvern_Character_BP_Fire_Minion_C
+164,GachaClaus,,Event Creatures,Omnivore,Docile,No,No,No,,Gacha Crystal (Extinction),Gacha_Claus_Character_BP_C
+165,Gallimimus,,Dinosaurs,Herbivore,Skittish,Yes,Yes,Yes,29,Medium,Galli_Character_BP_C
+166,Gamma King Titan,,Titans,Unknown,Highly Aggressive,No,No,No,,Small,KingKaiju_Character_BP_C
+167,Gasbags,,Fantasy,Omnivore,Passive,Yes,Yes,Yes,43,Medium,GasBags_Character_BP_C
+168,Giant Bee,,Invertebrates,Herbivore,Territorial,Yes,No,No,Unknown,None,Bee_Character_BP_C
+169,Giant Queen Bee,,Invertebrates,Herbivore,Territorial,Yes,No,No,Unknown,None,Bee_Queen_Character_BP_C
+170,Giganotosaurus,,Dinosaurs,Carnivore,Angry,Yes,Yes,Yes,96,Large,Gigant_Character_BP_C
+171,Giganotosaurus - Tek Cave,,Dinosaurs,Carnivore,Angry,No,Yes,Yes,Unknown,Large,Gigant_Character_BP_TekCave_C
+172,Gigantopithecus,,Mammals,Herbivore,Territorial,Yes,Yes,Yes,Bareback,Small,Bigfoot_Character_BP_C
+173,Glowbug,,Invertebrates,Unknown,Passive,No,No,No,,None,Lightbug_Character_BaseBP_C
+174,Glowtail,,Fantasy,Herbivore,Passive,Yes,No,Yes,Unknown,Small,LanternLizard_Character_BP_C
+175,Griffin,,"Birds, Fantasy",Carnivore,Aggressive,Yes,Yes,No,Bareback,Small,Griffin_Character_BP_C
+176,Griffin - Ragnarok Arena,,Fantasy,Carnivore,Aggressive,Yes,Yes,No,Bareback,Small,Griffin_Character_Minion_BP_C
+177,Hesperornis,,Birds,Piscivore,Flippant,Yes,No,Yes,Unknown,Small,Hesperornis_Character_BP_C
+178,Human,,Mammals,Omnivore,Varied,No,No,No,,Human,PlayerPawnTest_Male_C
+179,Hyaenodon,,Mammals,Carnivore,Opportunistic,Yes,No,Yes,Unknown,Small,Hyaenodon_Character_BP_C
+180,Ice Titan,,Titans,Unknown,Highly Aggressive,Yes,Yes,No,Unknown,Unknown,IceKaiju_Character_BP_C
+181,Ice Wyvern,,Fantasy,Carnivore,Aggressive,No,Yes,No,Bareback,Medium,Ragnarok_Wyvern_Override_Ice_C
+182,Iceworm Male,,Fantasy,Carnivore,Extremely Territorial,No,No,No,,None,Iceworm_Character_Minion_BP_smaller_C
+183,Iceworm Queen,,Alpha Predators,Carnivore,Extremely Territorial,No,No,No,,None,Iceworm_Queen_Character_BP_C
+184,Ichthyornis,,Birds,Piscivore,Skittish,Yes,No,Yes,Unknown,Small,Ichthyornis_Character_BP_C
+185,Ichthyosaurus,,Reptiles,Carnivore,Curious,Yes,Yes,Yes,13,None,Dolphin_Character_BP_C
+186,Iguanodon,,Dinosaurs,Herbivore,Reactive,Yes,Yes,Yes,30,Small,Iguanodon_Character_BP_C
+187,Jerboa,,Mammals,Herbivore,Cowardly,Yes,No,Yes,Unknown,Small,Jerboa_Character_BP_C
+188,Jug Bug,,Invertebrates,Herbivore,Passive,No,No,No,,None,Jugbug_Character_BaseBP_C
+189,Kairuku,,Birds,Piscivore,Friendly,Yes,No,Yes,Unknown,Small,Kairuku_Character_BP_C
+190,Kaprosuchus,,Reptiles,Carnivore,Aggressive,Yes,Yes,Yes,39,Small,Kaprosuchus_Character_BP_C
+191,Karkinos,,Invertebrates,Omnivore,Aggressive,Yes,Yes,No,65,None,Crab_Character_BP_C
+192,Kentrosaurus,,Dinosaurs,Herbivore,Short-Tempered,Yes,No,Yes,Unknown,Medium,Kentro_Character_BP_C
+193,King Titan,,Titans,Unknown,Highly Aggressive,No,No,No,,Small,KingKaiju_Character_BP_C
+194,Lamprey,,Fish,Carnivore,Aggressive,Yes,No,No,Unknown,None,Lamprey_Character_C
+195,Lava Elemental,,Fantasy,Unknown,Extremely Territorial,No,No,No,,None,LavaGolem_Character_BP_C
+196,Leech,,Invertebrates,Sanguinivore,Passive - Aggressive,Yes,No,No,Unknown,None,Leech_Character_C
+197,Leedsichthys,,Fish,Piscivore,Defensive,No,No,No,,None,Leedsichthys_Character_BP_C
+198,Lightning Wyvern,,Fantasy,Carnivore,Aggressive,No,Yes,No,Bareback,Medium,Wyvern_Character_BP_Lightning_C
+199,Liopleurodon,,Reptiles,Carnivore,Patient,Yes,Yes,No,Bareback,None,Liopleurodon_Character_BP_C
+200,Lymantria,,Invertebrates,Herbivore,Evasive,Yes,Yes,No,36,Small,Moth_Character_BP_C
+201,Lystrosaurus,,Synapsids,Herbivore,Loyal,Yes,No,Yes,Unknown,Small,Lystro_Character_BP_C
+202,Mammoth,,Mammals,Herbivore,Docile,Yes,Yes,Yes,31,Large,Mammoth_Character_BP_C
+203,Managarmr,,Fantasy,Carnivore,Aggressive,Yes,Yes,Yes,66,Medium,IceJumper_Character_BP_C
+204,Manta,,Fish,Carnivore,Defensive,Yes,Yes,Yes,28,None,Manta_Character_BP_C
+205,Manticore,,Bosses,Carnivore,Aggressive,No,No,No,,None,Manticore_Character_BP_C
+206,Manticore (Alpha),,Bosses,Carnivore,Aggressive,No,No,No,,None,Manticore_Character_BP_Hard_C
+207,Manticore (Alpha) - Ragnarok Arena,,Bosses,Carnivore,Aggressive,No,No,No,,None,Manticore_Character_BP_Hard_Ragnarok_C
+208,Manticore (Beta),,Bosses,Carnivore,Aggressive,No,No,No,,None,Manticore_Character_BP_Medium_C
+209,Manticore (Beta) - Ragnarok Arena,,Bosses,Carnivore,Aggressive,No,No,No,,None,Manticore_Character_BP_Medium_Ragnarok_C
+210,Manticore (Gamma),,Bosses,Carnivore,Aggressive,No,No,No,,None,Manticore_Character_BP_Easy_C
+211,Manticore (Gamma) - Ragnarok Arena,,Bosses,Carnivore,Aggressive,No,No,No,,None,Manticore_Character_BP_Easy_Ragnarok_C
+212,Mantis,,Invertebrates,Carnivore,Aggressive,Yes,Yes,No,45,None,Mantis_Character_BP_C
+213,Mega Mek,,Mechanical,Unknown,Unknown,Yes,Yes,No,Unknown,Unknown,MegaMek_Character_BP_C
+214,Megalania,,Reptiles,Carnivore,Aggressive,Yes,Yes,Yes,73,Small,Megalania_Character_BP_C
+215,Megaloceros,,Mammals,Herbivore,Skittish,Yes,Yes,Yes,30,Medium,Stag_Character_BP_C
+216,Megaloceros - LifesLabyrinth,,Fantasy,Herbivore,Skittish,Yes,Yes,Yes,Unknown,Medium,Stag_LL_Character_BP_C
+217,Megalodon,,Fish,Carnivore,Aggressive,Yes,Yes,Yes,47,None,Megalodon_Character_BP_C
+218,Megalosaurus,,Dinosaurs,Carnivore,Nocturnally Aggressive,Yes,Yes,Yes,57,Medium,Megalosaurus_Character_BP_C
+219,Megalosaurus - Tek Cave,,Dinosaurs,Carnivore,Nocturnally Aggressive,Yes,Yes,Yes,Unknown,Medium,Megalosaurus_Character_BP_TekCave_C
+220,Meganeura,,Invertebrates,Carnivore,Reactive,No,No,No,,None,Dragonfly_Character_BP_C
+221,Megapithecus,,Bosses,Carnivore,Aggressive,No,No,No,,None,Gorilla_Character_BP_C
+222,Megapithecus (Alpha),,Bosses,Carnivore,Aggressive,No,No,No,,None,Gorilla_Character_BP_Hard_C
+223,Megapithecus (Alpha) - Overseer Arena,,Bosses,Unknown,Aggressive,No,No,No,,None,EndBossGorilla_Character_BP_Hard_C
+224,Megapithecus (Alpha) - The Center Arena,,Bosses,Carnivore,Aggressive,No,No,No,,None,Gorilla_Character_BP_TheCenter_Hard_C
+225,Megapithecus (Beta),,Bosses,Carnivore,Aggressive,No,No,No,,None,Gorilla_Character_BP_Medium_C
+226,Megapithecus (Beta) - Overseer Arena,,Bosses,Unknown,Aggressive,No,No,No,,None,EndBossGorilla_Character_BP_Medium_C
+227,Megapithecus (Beta) - The Center Arena,,Bosses,Carnivore,Aggressive,No,No,No,,None,Gorilla_Character_BP_TheCenter_Medium_C
+228,Megapithecus (Gamma),,Bosses,Carnivore,Aggressive,No,No,No,,None,Gorilla_Character_BP_Easy_C
+229,Megapithecus (Gamma) - Overseer Arena,,Bosses,Unknown,Aggressive,No,No,No,,None,EndBossGorilla_Character_BP_Easy_C
+230,Megapithecus (Gamma) - The Center Arena,,Bosses,Carnivore,Aggressive,No,No,No,,None,Gorilla_Character_BP_TheCenter_C
+231,Megapithecus Guardian,,Bosses,Unknown,Aggressive,No,No,No,,None,EndBossGorilla_Character_BP_C
+232,Megatherium,,Mammals,Omnivore (primarily Herbivore),"Passive, but aggressive to insects",Yes,Yes,Yes,52,Medium,Megatherium_Character_BP_C
+233,Mek,,Mechanical,Unknown,Unknown,Yes,Yes,No,Bareback,Unknown,Mek_Character_BP_C
+234,Mesopithecus,,Mammals,Omnivore,Curious,Yes,No,Yes,Unknown,Human,Monkey_Character_BP_C
+235,Microraptor,,Dinosaurs,Carnivore,Aggressive,Yes,No,Yes,Unknown,Small,Microraptor_Character_BP_C
+236,Morellatops,,Dinosaurs,Herbivore,Passive,Yes,Yes,Yes,11,Small,camelsaurus_Character_BP_C
+237,Mosasaur - Caverns,,Reptiles,Carnivore,Aggressive,Yes,Yes,Yes,Unknown,None,Mosa_Character_BP_Cave_C
+238,Mosasaurus,,Reptiles,Carnivore,Aggressive,Yes,Yes,Yes,78,None,Mosa_Character_BP_C
+239,Moschops,,Synapsids,Omnivore,Cowardly,Yes,Yes,Yes,Unknown,Small,Moschops_Character_BP_C
+240,Nameless,,Fantasy,Carnivore,Aggressive,No,No,No,,None,ChupaCabra_Character_BP_C
+241,Nameless - Rockwell Arena,,Fantasy,Carnivore,Aggressive,No,No,No,,None,ChupaCabra_Character_BP_C
+242,Nameless - The Surface,,Fantasy,Carnivore,Aggressive,No,No,No,,None,ChupaCabra_Character_BP_C
+243,Oil Jug Bug,,Invertebrates,Herbivore,Passive,No,No,No,,None,Jugbug_Oil_Character_BP_C
+244,Onyc,,Mammals,Omnivore,Aggressive,Yes,No,No,Unknown,Small,Bat_Character_BP_C
+245,Otter,,Mammals,Omnivore,Friendly,Yes,No,Yes,Unknown,Small,Otter_Character_BP_C
+246,Overseer,,Bosses,Unknown,Aggressive,No,No,No,,None,EndBoss_Character_C
+247,Overseer (Alpha),,Bosses,Unknown,Aggressive,No,No,No,,None,EndBoss_Character_Hard_C
+248,Overseer (Beta),,Bosses,Unknown,Aggressive,No,No,No,,None,EndBoss_Character_Medium_C
+249,Overseer (Gamma),,Bosses,Unknown,Aggressive,No,No,No,,None,EndBoss_Character_Easy_C
+250,Oviraptor,,Dinosaurs,Carnivore,Skittish,Yes,No,Yes,Unknown,Small,Oviraptor_Character_BP_C
+251,Ovis,,Mammals,Herbivore,Stupid,Yes,Yes,Yes,Bareback,Small,Sheep_Character_BP_C
+252,Pachy,,Dinosaurs,Herbivore,Passive,Yes,Yes,Yes,14,Small,Pachy_Character_BP_C
+253,Pachyrhinosaurus,,Dinosaurs,Herbivore,Evasive,Yes,Yes,Yes,27,Medium,Pachyrhino_Character_BP_C
+254,Paraceratherium,,Mammals,Herbivore,Docile,Yes,Yes,Yes,41,Large,Paracer_Character_BP_C
+255,Parasaur,,Dinosaurs,Herbivore,Skittish,Yes,Yes,Yes,9,Medium,Para_Character_BP_C
+256,Pegomastax,,Dinosaurs,Herbivore,Defensive,Yes,No,Yes,Unknown,Small,Pegomastax_Character_BP_C
+257,Pelagornis,,Birds,Piscivore,Skittish,Yes,Yes,Yes,43,Small,Pela_Character_BP_C
+258,Phiomia,,Mammals,Herbivore,Skittish,Yes,Yes,Yes,5,Medium,Phiomia_Character_BP_C
+259,Phoenix,,Fantasy,Flame Eater,Elusive,Yes,Yes,No,Bareback,Silica Pearls,Phoenix_Character_BP_C
+260,Piranha,,Fish,Carnivore,Aggressive,Yes,No,No,Unknown,None,Piranha_Character_BP_C
+261,Plesiosaur,,Reptiles,Carnivore,Aggressive,Yes,Yes,Yes,64,None,Plesiosaur_Character_BP_C
+262,Poison Wyvern,,Fantasy,Carnivore,Aggressive,No,Yes,No,Bareback,Medium,Wyvern_Character_BP_Poison_C
+263,Polar Bear,,Mammals,Omnivore,Territorial,No,No,No,,Medium,Direbear_Character_Polar_C
+264,Procoptodon,,Mammals,Herbivore,Reactive,Yes,Yes,Yes,23,Medium,Procoptodon_Character_BP_C
+265,Pteranodon,,Reptiles,Carnivore,Skittish,Yes,Yes,Yes,38,Small,Ptero_Character_BP_C
+266,Pteranodon - Alpha Dragon Arena,,Reptiles,Carnivore,Skittish,Yes,Yes,Yes,Unknown,Small,Ptero_Minion_Character_Hard_C
+267,Pteranodon - Beta Dragon Arena,,Reptiles,Carnivore,Skittish,Yes,Yes,Yes,Unknown,Small,Ptero_Minion_Character_Med_C
+268,Pteranodon - Gamma Dragon Arena,,Reptiles,Carnivore,Skittish,Yes,Yes,Yes,Unknown,Small,Ptero_Minion_Character_BP_C
+269,Pulmonoscorpius,,Invertebrates,Carnivore,Aggressive,Yes,Yes,No,22,Small,Scorpion_Character_BP_C
+270,Purlovia,,Synapsids,Carnivore,Patient,Yes,No,Yes,Unknown,Medium,Purlovia_Character_BP_C
+271,Purlovia - Snow Cave,,Synapsids,Carnivore,Patient,No,No,No,,Medium,Purlovia_Character_BP_Polar_C
+272,Quetzal,,Reptiles,Carnivore,Skittish,Yes,Yes,Yes,76,Large,Quetz_Character_BP_C
+273,Raptor,,Dinosaurs,Carnivore,Aggressive,Yes,Yes,Yes,18,Small,Raptor_Character_BP_C
+274,Ravager,,Fantasy,Carnivore,Aggressive,Yes,Yes,Yes,47,Small,CaveWolf_Character_BP_C
+275,Reaper,,Fantasy,Carnivore,Aggressive,No,Yes,Yes,Bareback,None,Xenomorph_Character_BP_Male_C
+276,Reaper Queen,,Fantasy,Carnivore,Aggressive,No,No,No,,None,Xenomorph_Character_BP_Female_C
+277,Rex,,Dinosaurs,Carnivore,Aggressive,Yes,Yes,Yes,74,Large,Rex_Character_BP_C
+278,Rock Drake,,Fantasy,Carnivore,Aggressive,No,Yes,No,75,Large,RockDrake_Character_BP_C
+279,Rock Elemental,,Fantasy,Minerals,Extremely Territorial,Yes,Yes,No,70,None,RockGolem_Character_BP_C
+280,Rock Elemental - Manticore Arena,,Fantasy,Minerals,Extremely Territorial,Yes,Yes,No,Unknown,None,RockGolem_Character_Minion_BP_C
+281,Rockwell,,Bosses,Unknown,Aggressive,No,No,No,,None,Rockwell_Character_BP_C
+282,Rockwell (Alpha),,Bosses,Unknown,Aggressive,No,No,No,,None,Rockwell_Character_BP_Hard_C
+283,Rockwell (Beta),,Bosses,Unknown,Aggressive,No,No,No,,None,Rockwell_Character_BP_Medium_C
+284,Rockwell (Gamma),,Bosses,Unknown,Aggressive,No,No,No,,None,Rockwell_Character_BP_Easy_C
+285,RockwellTentacle,,Bosses,Unknown,Aggressive,No,No,No,,None,RockwellTentacle_Character_BP_C
+286,RockwellTentacle (Alpha),,Bosses,Unknown,Aggressive,No,No,No,,None,RockwellTentacle_Character_BP_Alpha_C
+287,RockwellTentacle (Beta),,Bosses,Unknown,Aggressive,No,No,No,,None,RockwellTentacle_Character_BP_Beta_C
+288,RockwellTentacle (Gamma),,Bosses,Unknown,Aggressive,No,No,No,,None,RockwellTentacle_Character_BP_Gamma_C
+289,Roll Rat,,Mammals,Herbivore,Passive,Yes,Yes,Yes,58,Medium,MoleRat_Character_BP_C
+290,Royal Griffin,,Fantasy,Carnivore,Aggressive,Yes,Yes,Yes,Bareback,Small,Unknown
+291,Rubble Golem,,Fantasy,Minerals,Extremely Territorial,No,No,No,,None,RubbleGolem_Character_BP_C
+292,Sabertooth,,Mammals,Carnivore,Aggressive,Yes,Yes,Yes,37,Small,Saber_Character_BP_C
+293,Sabertooth Salmon,,Fish,Carnivore,"Evasive, Aggressive when attacked",Yes,No,No,Unknown,None,Salmon_Character_BP_C
+294,Sarco,,Reptiles,Carnivore,Patient,Yes,Yes,Yes,35,Medium,Sarco_Character_BP_C
+295,Scout,,Mechanical,Unknown,Unknown,No,No,No,,Small,Scout_Character_BP_C
+296,Seeker,,Fantasy,Carnivore,Aggressive,No,No,No,,None,Pteroteuthis_Char_BP_C
+297,Seeker - The Surface,,Fantasy,Carnivore,Aggressive,No,No,No,,None,Pteroteuthis_Char_BP_Surface_C
+298,Shinehorn,,Fantasy,Herbivore,Passive,Yes,No,Yes,Unknown,Small,LanternGoat_Character_BP_C
+299,Skeletal Bronto,,Event Creatures,Herbivore,Docile,No,No,No,,None,Bone_Sauropod_Character_BP_C
+300,Skeletal Carnotaurus,,Event Creatures,Carnivore,Aggressive,No,No,No,,None,Bone_MegaCarno_Character_BP_C
+301,Skeletal Giganotosaurus,,Event Creatures,Carnivore,Aggressive,No,No,No,,None,Bone_Gigant_Character_BP_C
+302,Skeletal Jerboa,,Event Creatures,Herbivore,Cowardly,No,No,No,,Small,Bone_Jerboa_Character_BP_C
+303,Skeletal Quetzal,,Event Creatures,Carnivore,Skittish,No,No,No,,Large,Bone_Quetz_Character_BP_C
+304,Skeletal Raptor,,Event Creatures,Carnivore,Aggressive,No,No,No,,None,Bone_MegaRaptor_Character_BP_C
+305,Skeletal Rex,,Event Creatures,Carnivore,Aggressive,No,No,No,,None,Bone_MegaRex_Character_BP_C
+306,Skeletal Stego,,Event Creatures,Herbivore,Docile,No,No,No,,None,Bone_Stego_Character_BP_C
+307,Skeletal Trike,,Event Creatures,Herbivore,Short-Tempered,No,No,No,,None,Bone_Trike_Character_BP_C
+308,Snow Owl,,Birds,Carnivore,Aggressive,Yes,Yes,Yes,61,Snow Owl Pellet (Extinction),Owl_Character_BP_C
+309,Spinosaur,,Dinosaurs,Carnivore,Territorial,Yes,Yes,Yes,71,Large,Spino_Character_BP_C
+310,Stegosaurus,,Dinosaurs,Herbivore,Docile,Yes,Yes,Yes,26,Medium,Stego_Character_BP_C
+311,Subterranean Reaper King,,Fantasy,Carnivore,Aggressive,No,No,No,,None,Xenomorph_Character_BP_Male_Chupa_C
+312,Super Turkey,,Event Creatures,Carnivore,Unknown,No,No,No,,None,Turkey_Character_BP_C
+313,Surface Reaper King,,Fantasy,Carnivore,Aggressive,No,No,No,,None,Xenomorph_Character_BP_Male_Surface_C
+314,Tapejara,,Reptiles,Carnivore,Skittish,Yes,Yes,Yes,55,Small,Tapejara_Character_BP_C
+315,Tek Parasaur,,Tek Creatures,Herbivore,Skittish,Yes,Yes,Yes,Unknown,Medium,BionicPara_Character_BP_C
+316,Tek Quetzal,,Tek Creatures,Carnivore,Skittish,Yes,Yes,Yes,Unknown,Large,BionicQuetz_Character_BP_C
+317,Tek Raptor,,Tek Creatures,Carnivore,Aggressive,Yes,Yes,Yes,Unknown,Small,BionicRaptor_Character_BP_C
+318,Tek Rex,,Tek Creatures,Carnivore,Aggressive,Yes,Yes,Yes,Unknown,Large,BionicRex_Character_BP_C
+319,Tek Stegosaurus,,Tek Creatures,Herbivore,Docile,Yes,Yes,Yes,Unknown,Medium,BionicStego_Character_BP_C
+320,Terror Bird,,Birds,Carnivore,Aggressive,Yes,Yes,Yes,33,Small,TerrorBird_Character_BP_C
+321,Therizinosaur,,Dinosaurs,Herbivore,Aggressive,Yes,Yes,Yes,69,Medium,Therizino_Character_BP_C
+322,Thorny Dragon,,Reptiles,Carnivore,Aggressive,Yes,Yes,Yes,40,Medium,SpineyLizard_Character_BP_C
+323,Thylacoleo,,Mammals,Carnivore,Aggressive,Yes,Yes,Yes,51,Medium,Thylacoleo_Character_BP_C
+324,Titanoboa,,Reptiles,Carnivore,Aggressive,Yes,No,No,Unknown,None,BoaFrill_Character_BP_C
+325,Titanomyrma,,Invertebrates,Carnivore,Territorial,No,No,No,,None,Ant_Character_BP_C
+326,Titanomyrma Drone,,Invertebrates,Carnivore,Territorial,No,No,No,,None,Ant_Character_BP_C
+327,Titanomyrma Soldier,,Invertebrates,Carnivore,Territorial,No,No,No,,None,FlyingAnt_Character_BP_C
+328,Titanosaur,,Dinosaurs,Herbivore,"Passive, Unless Approached",Yes,Yes,No,Unknown,Massive,Titanosaur_Character_BP_C
+329,Triceratops,,Dinosaurs,Herbivore,Short-Tempered,Yes,Yes,Yes,16,Medium,Trike_Character_BP_C
+330,Trilobite,,Invertebrates,Carnivore,Defensive,Yes,No,No,Unknown,None,Trilobite_Character_C
+331,Troodon,,Dinosaurs,Carnivore,Nocturnally Aggressive,Yes,No,Yes,Unknown,Small,Troodon_Character_BP_C
+332,Tusoteuthis,,Invertebrates,Carnivore,Aggressive,Yes,Yes,Yes,91,None,Tusoteuthis_Character_BP_C
+333,Tusoteuthis - Caverns,,Fish,Carnivore,Aggressive,No,Yes,Yes,Unknown,None,Tusoteuthis_Character_BP_Caves_C
+334,Unicorn,,Fantasy,Herbivore,Loyal,Yes,Yes,Yes,Unknown,"Medium, Unicorn Residue (Mobile)",Equus_Character_BP_Unicorn_C
+335,Velonasaur,,Dinosaurs,Carnivore,Omnivore,Yes,Yes,Yes,27,Medium,Spindles_Character_BP_C
+336,Vulture,,Birds,Carrion-Feeder,Docile,Yes,No,Yes,Unknown,Small,Vulture_Character_BP_C
+337,Water Jug Bug,,Invertebrates,Herbivore,Passive,No,No,No,,None,Jugbug_Water_Character_BP_C
+338,Woolly Rhino,,Mammals,Herbivore,Friendly,Yes,Yes,Yes,53,Medium,Rhino_Character_BP_C
+339,Wyvern,,Fantasy,Carnivore,Aggressive,No,Yes,No,Bareback,Medium,Wyvern_Character_BP_Base_C
+340,Yeti,,Alpha Predators,Herbivore,Aggressive,No,No,No,,Small,Yeti_Character_BP_C
+341,Yutyrannus,,Dinosaurs,Carnivore,Aggressive,Yes,Yes,Yes,80,Large,Yutyrannus_Character_BP_C
+342,Zombie Fire Wyvern,,Event Creatures,Carnivore,Aggressive,Yes,No,No,Unknown,Medium,Wyvern_Character_BP_ZombieFire_C
+343,Zombie Lightning Wyvern,,Event Creatures,Carnivore,Aggressive,Yes,No,No,Unknown,Medium,Wyvern_Character_BP_ZombieLightning_C
+344,Zombie Poison Wyvern,,Event Creatures,Carnivore,Aggressive,Yes,No,No,Unknown,Medium,Wyvern_Character_BP_ZombiePoison_C
+345,Zombie Wyvern,,Event Creatures,Carnivore,Aggressive,Yes,No,No,Unknown,Medium,Wyvern_Character_BP_ZombieBase_C
+346,Zomdodo,,Event Creatures,Carnivore,Aggressive,Yes,No,No,Unknown,None,ZombieDodo_Character_BP_C

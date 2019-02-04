@@ -1,0 +1,128 @@
+,Name,Group,Entity_ID
+0,Achatina,Invertebrates,Achatina_Character_BP_C
+1,Allosaurus,Dinosaurs,Allo_Character_BP_C
+2,Anglerfish,Fish,Angler_Character_BP_C
+3,Ankylosaurus,Dinosaurs,Ankylo_Character_BP_C
+4,Araneo,Invertebrates,SpiderS_Character_BP_C
+5,Archaeopteryx,Birds,Archa_Character_BP_C
+6,Argentavis,Birds,Argent_Character_BP_C
+7,Arthropluera,Invertebrates,Arthro_Character_BP_C
+8,Baryonyx,Dinosaurs,Baryonyx_Character_BP_C
+9,Basilisk,Fantasy,Basilisk_Character_BP_C
+10,Basilosaurus,Mammals,Basilosaurus_Character_BP_C
+11,Beelzebufo,Amphibians,Toad_Character_BP_C
+12,Brontosaurus,Dinosaurs,Sauropod_Character_BP_C
+13,Bulbdog,Fantasy,LanternPug_Character_BP_C
+14,Carbonemys,Reptiles,Turtle_Character_BP_C
+15,Carnotaurus,Dinosaurs,Carno_Character_BP_C
+16,Castoroides,Mammals,Beaver_Character_BP_C
+17,Chalicotherium,Mammals,Chalico_Character_BP_C
+18,Coelacanth,Fish,Coel_Character_BP_C
+19,Compy,Dinosaurs,Compy_Character_BP_C
+20,Daeodon,Mammals,Daeodon_Character_BP_C
+21,Desert Titan,Titans,DesertKaiju_Character_BP_C
+22,Dilophosaur,Dinosaurs,Dilo_Character_BP_C
+23,Dimetrodon,Synapsids,Dimetro_Character_BP_C
+24,Dimorphodon,Reptiles,Dimorph_Character_BP_C
+25,Diplocaulus,Amphibians,Diplocaulus_Character_BP_C
+26,Diplodocus,Dinosaurs,Diplodocus_Character_BP_C
+27,Dire Polar Bear,Mammals,Polar_Bear_C
+28,Direbear,Mammals,Direbear_Character_BP_C
+29,Direwolf,Mammals,Direwolf_Character_BP_C
+30,Dodo,Birds,Dodo_Character_BP_C
+31,Doedicurus,Mammals,Doed_Character_BP_C
+32,Dung Beetle,Invertebrates,DungBeetle_Character_BP_C
+33,Dunkleosteus,Fish,Dunkle_Character_BP_C
+34,Electrophorus,Fish,Eel_Character_BP_C
+35,Enforcer,Mechanical,Enforcer_Character_BP_C
+36,Equus,Mammals,Equus_Character_BP_C
+37,Featherlight,Fantasy,LanternBird_Character_BP_C
+38,Forest Titan,Titans,ForestKaiju_Character_BP_C
+39,Gallimimus,Dinosaurs,Galli_Character_BP_C
+40,Gasbags,Fantasy,GasBags_Character_BP_C
+41,Giant Bee,Invertebrates,Bee_Character_BP_C
+42,Giant Queen Bee,Invertebrates,Bee_Queen_Character_BP_C
+43,Giganotosaurus,Dinosaurs,Gigant_Character_BP_C
+44,Gigantopithecus,Mammals,Bigfoot_Character_BP_C
+45,Glowtail,Fantasy,LanternLizard_Character_BP_C
+46,Griffin,"Birds, Fantasy",Griffin_Character_BP_C
+47,Hesperornis,Birds,Hesperornis_Character_BP_C
+48,Hyaenodon,Mammals,Hyaenodon_Character_BP_C
+49,Ice Titan,Titans,IceKaiju_Character_BP_C
+50,Ichthyornis,Birds,Ichthyornis_Character_BP_C
+51,Ichthyosaurus,Reptiles,Dolphin_Character_BP_C
+52,Iguanodon,Dinosaurs,Iguanodon_Character_BP_C
+53,Jerboa,Mammals,Jerboa_Character_BP_C
+54,Kairuku,Birds,Kairuku_Character_BP_C
+55,Kaprosuchus,Reptiles,Kaprosuchus_Character_BP_C
+56,Karkinos,Invertebrates,Crab_Character_BP_C
+57,Kentrosaurus,Dinosaurs,Kentro_Character_BP_C
+58,Lamprey,Fish,Lamprey_Character_C
+59,Leech,Invertebrates,Leech_Character_C
+60,Liopleurodon,Reptiles,Liopleurodon_Character_BP_C
+61,Lymantria,Invertebrates,Moth_Character_BP_C
+62,Lystrosaurus,Synapsids,Lystro_Character_BP_C
+63,Mammoth,Mammals,Mammoth_Character_BP_C
+64,Managarmr,Fantasy,IceJumper_Character_BP_C
+65,Manta,Fish,Manta_Character_BP_C
+66,Mantis,Invertebrates,Mantis_Character_BP_C
+67,Mega Mek,Mechanical,MegaMek_Character_BP_C
+68,Megalania,Reptiles,Megalania_Character_BP_C
+69,Megaloceros,Mammals,Stag_Character_BP_C
+70,Megalodon,Fish,Megalodon_Character_BP_C
+71,Megalosaurus,Dinosaurs,Megalosaurus_Character_BP_C
+72,Megatherium,Mammals,Megatherium_Character_BP_C
+73,Mek,Mechanical,Mek_Character_BP_C
+74,Mesopithecus,Mammals,Monkey_Character_BP_C
+75,Microraptor,Dinosaurs,Microraptor_Character_BP_C
+76,Morellatops,Dinosaurs,camelsaurus_Character_BP_C
+77,Mosasaurus,Reptiles,Mosa_Character_BP_C
+78,Moschops,Synapsids,Moschops_Character_BP_C
+79,Onyc,Mammals,Bat_Character_BP_C
+80,Otter,Mammals,Otter_Character_BP_C
+81,Oviraptor,Dinosaurs,Oviraptor_Character_BP_C
+82,Ovis,Mammals,Sheep_Character_BP_C
+83,Pachy,Dinosaurs,Pachy_Character_BP_C
+84,Pachyrhinosaurus,Dinosaurs,Pachyrhino_Character_BP_C
+85,Paraceratherium,Mammals,Paracer_Character_BP_C
+86,Parasaur,Dinosaurs,Para_Character_BP_C
+87,Pegomastax,Dinosaurs,Pegomastax_Character_BP_C
+88,Pelagornis,Birds,Pela_Character_BP_C
+89,Phiomia,Mammals,Phiomia_Character_BP_C
+90,Phoenix,Fantasy,Phoenix_Character_BP_C
+91,Piranha,Fish,Piranha_Character_BP_C
+92,Plesiosaur,Reptiles,Plesiosaur_Character_BP_C
+93,Procoptodon,Mammals,Procoptodon_Character_BP_C
+94,Pteranodon,Reptiles,Ptero_Character_BP_C
+95,Pulmonoscorpius,Invertebrates,Scorpion_Character_BP_C
+96,Purlovia,Synapsids,Purlovia_Character_BP_C
+97,Quetzal,Reptiles,Quetz_Character_BP_C
+98,Raptor,Dinosaurs,Raptor_Character_BP_C
+99,Ravager,Fantasy,CaveWolf_Character_BP_C
+100,Rex,Dinosaurs,Rex_Character_BP_C
+101,Rock Elemental,Fantasy,RockGolem_Character_BP_C
+102,Roll Rat,Mammals,MoleRat_Character_BP_C
+103,Royal Griffin,Fantasy,Unknown
+104,Sabertooth,Mammals,Saber_Character_BP_C
+105,Sabertooth Salmon,Fish,Salmon_Character_BP_C
+106,Sarco,Reptiles,Sarco_Character_BP_C
+107,Shinehorn,Fantasy,LanternGoat_Character_BP_C
+108,Snow Owl,Birds,Owl_Character_BP_C
+109,Spinosaur,Dinosaurs,Spino_Character_BP_C
+110,Stegosaurus,Dinosaurs,Stego_Character_BP_C
+111,Tapejara,Reptiles,Tapejara_Character_BP_C
+112,Terror Bird,Birds,TerrorBird_Character_BP_C
+113,Therizinosaur,Dinosaurs,Therizino_Character_BP_C
+114,Thorny Dragon,Reptiles,SpineyLizard_Character_BP_C
+115,Thylacoleo,Mammals,Thylacoleo_Character_BP_C
+116,Titanoboa,Reptiles,BoaFrill_Character_BP_C
+117,Titanosaur,Dinosaurs,Titanosaur_Character_BP_C
+118,Triceratops,Dinosaurs,Trike_Character_BP_C
+119,Trilobite,Invertebrates,Trilobite_Character_C
+120,Troodon,Dinosaurs,Troodon_Character_BP_C
+121,Tusoteuthis,Invertebrates,Tusoteuthis_Character_BP_C
+122,Unicorn,Fantasy,Equus_Character_BP_Unicorn_C
+123,Velonasaur,Dinosaurs,Spindles_Character_BP_C
+124,Vulture,Birds,Vulture_Character_BP_C
+125,Woolly Rhino,Mammals,Rhino_Character_BP_C
+126,Yutyrannus,Dinosaurs,Yutyrannus_Character_BP_C

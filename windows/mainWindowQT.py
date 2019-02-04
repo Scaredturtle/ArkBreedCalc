@@ -22,9 +22,9 @@ class dino_app_main_window(QMainWindow):
 
 if __name__ == '__main__':
     import sys
-    from PyQt5 import QtApplication
+    from PyQt5.QtWidgets import QApplication
     
-    app = QtApplication([])
+    app = QApplication([])
     app_main_window = QMainWindow()
     ui = dino_app_main_window()
     ui.createUI(app_main_window)
