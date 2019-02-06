@@ -10,7 +10,7 @@ dino_app_ui = main_window.dino_app_main_window()
 dino_app_ui.create_ui()
 dino_app_ui.show()
 
-scrape = gather.site_data_pull()
-scrape.main_table_pull()
+#scrape = gather.site_data_pull()
+#scrape.main_table_pull()
 
 sys.exit(dino_app.exec_())
